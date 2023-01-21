@@ -16,9 +16,11 @@ To write a program to find the square root of a number.
 
 ## Program:
 
+
+```py
+# Find the square root of a number
 #developed by:shalini.v
 #register numnber:22009257
-```py
 def square(n,ite):
     m=float(n)
     for i in range(ite):
